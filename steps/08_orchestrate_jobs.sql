@@ -8,10 +8,9 @@ Last Updated: 1/9/2023
 -- SNOWFLAKE ADVANTAGE: Tasks (with Stream triggers)
 -- SNOWFLAKE ADVANTAGE: Task Observability
 
-USE ROLE HOL_ROLE;
+USE ROLE ACCOUNTADMIN;
 USE WAREHOUSE HOL_WH;
 USE SCHEMA HOL_DB.HARMONIZED;
-
 
 -- ----------------------------------------------------------------------------
 -- Step #1: Create the tasks to call our Python stored procedures
