@@ -2,8 +2,8 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "https://pzmbqow-sfb39388.snowflakecomputing.com"
-user = "AFJAHN"
+account = "pzmbqow-sfb39388"
+user = "afjahn"
 password = "ginhob-wuDtiv-5qykce"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
