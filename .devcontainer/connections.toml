@@ -5,7 +5,4 @@
 account = "PZMBQOW.SFB39388"
 user = "AFJAHN"
 password = "ginhob-wuDtiv-5qykce"
-role = "HOL_ROLE"
-warehouse = "HOL_WH"
-database = "HOL_DB"
-schema = "ANALYTICS"
+
